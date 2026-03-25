@@ -135,12 +135,20 @@ export default function App() {
               </div>
               <div className="flex flex-wrap gap-4">
                 <a 
-                  href="http://www.88fb.net/?r=kkg4142" 
+                  href="http://yaoqing.kg999.net/?referralCode=hwb3102" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-blue-600 text-white rounded-2xl font-bold text-lg hover:bg-blue-700 transition-all transform hover:scale-105 btn-glow-blue flex items-center gap-2"
                 >
-                  এখনই একাউন্ট ক্রিয়েট করুন
+                  একাউন্ট ১ তৈরি করুন
+                </a>
+                <a 
+                  href="http://www.88fb.net/?r=kkg4142" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="px-8 py-4 bg-zinc-800 text-white rounded-2xl font-bold text-lg hover:bg-zinc-900 transition-all transform hover:scale-105 flex items-center gap-2"
+                >
+                  একাউন্ট ২ তৈরি করুন
                 </a>
               </div>
             </motion.div>
@@ -207,12 +215,20 @@ export default function App() {
                 </p>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                   <a 
-                    href="http://www.88fb.net/?r=kkg4142" 
+                    href="http://yaoqing.kg999.net/?referralCode=hwb3102" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-blue-600 text-white rounded-2xl font-black text-xl hover:bg-blue-700 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
                   >
-                    একাউন্ট তৈরি করুন
+                    একাউন্ট ১
+                  </a>
+                  <a 
+                    href="http://www.88fb.net/?r=kkg4142" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="w-full sm:w-auto px-10 py-5 bg-zinc-800 text-white rounded-2xl font-black text-xl hover:bg-zinc-900 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
+                  >
+                    একাউন্ট ২
                   </a>
                   <a 
                     href="https://t.me/Contact_mussa" 
@@ -220,7 +236,7 @@ export default function App() {
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-green-500 text-white rounded-2xl font-black text-xl hover:bg-green-600 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
                   >
-                    টেলিগ্রামে স্ক্রিনশট পাঠান
+                    স্ক্রিনশট পাঠান
                   </a>
                 </div>
                 <div className="mt-8 flex items-center justify-center gap-2 text-zinc-400 text-sm font-medium">
