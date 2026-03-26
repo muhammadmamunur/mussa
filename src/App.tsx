@@ -59,7 +59,8 @@ export default function App() {
     "গোপনীয়তা: আমাদের দেওয়া হ্যাক বা সিগন্যাল অন্য কোথাও শেয়ার করা সম্পূর্ণ নিষেধ।",
     "অ্যাকাউন্ট লিমিট: একই ডিভাইসে একটির বেশি একাউন্ট করা যাবে না, অন্যথায় আইডি ব্যান হতে পারে।",
     "সাপোর্ট: যেকোনো সমস্যায় সরাসরি আমাদের টেলিগ্রাম সাপোর্টে যোগাযোগ করতে হবে।",
-    "লাভ শেয়ার: প্রফিট হলে আমাদের কমিউনিটির নিয়ম অনুযায়ী আপডেট থাকতে হবে।"
+    "লাভ শেয়ার: প্রফিট হলে আমাদের কমিউনিটির নিয়ম অনুযায়ী আপডেট থাকতে হবে।",
+    "বেটিং ভেরিফিকেশন: আমাদের প্রিমিয়াম সুবিধাসমূহ উপভোগ করতে হলে কমপক্ষে ৩,০০০ টাকার বৈধ বাজি (Valid Bet) সম্পন্ন করতে হবে এবং সেটির স্ক্রিনশট আমাদের টেলিগ্রামে প্রদান করতে হবে।"
   ];
 
   return (
@@ -135,7 +136,7 @@ export default function App() {
               </div>
               <div className="flex flex-wrap gap-4">
                 <a 
-                  href="http://yaoqing.kg999.net/?referralCode=hwb3102" 
+                  href="http://www.kkfb.net/?r=tif8305" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-blue-600 text-white rounded-2xl font-bold text-lg hover:bg-blue-700 transition-all transform hover:scale-105 btn-glow-blue flex items-center gap-2"
@@ -143,7 +144,7 @@ export default function App() {
                   একাউন্ট ১ তৈরি করুন
                 </a>
                 <a 
-                  href="http://www.88fb.net/?r=kkg4142" 
+                  href="http://www.kkfb.org/?r=tif8305" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-zinc-800 text-white rounded-2xl font-bold text-lg hover:bg-zinc-900 transition-all transform hover:scale-105 flex items-center gap-2"
@@ -215,7 +216,7 @@ export default function App() {
                 </p>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                   <a 
-                    href="http://yaoqing.kg999.net/?referralCode=hwb3102" 
+                    href="http://www.kkfb.net/?r=tif8305" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-blue-600 text-white rounded-2xl font-black text-xl hover:bg-blue-700 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
@@ -223,7 +224,7 @@ export default function App() {
                     একাউন্ট ১
                   </a>
                   <a 
-                    href="http://www.88fb.net/?r=kkg4142" 
+                    href="http://www.kkfb.org/?r=tif8305" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-zinc-800 text-white rounded-2xl font-black text-xl hover:bg-zinc-900 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
