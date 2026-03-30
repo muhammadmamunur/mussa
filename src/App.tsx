@@ -60,7 +60,7 @@ export default function App() {
     "অ্যাকাউন্ট লিমিট: একই ডিভাইসে একটির বেশি একাউন্ট করা যাবে না, অন্যথায় আইডি ব্যান হতে পারে।",
     "সাপোর্ট: যেকোনো সমস্যায় সরাসরি আমাদের টেলিগ্রাম সাপোর্টে যোগাযোগ করতে হবে।",
     "লাভ শেয়ার: প্রফিট হলে আমাদের কমিউনিটির নিয়ম অনুযায়ী আপডেট থাকতে হবে।",
-    "বেটিং ভেরিফিকেশন: আমাদের প্রিমিয়াম সুবিধাসমূহ উপভোগ করতে হলে কমপক্ষে ৩,০০০ টাকার বৈধ বাজি (Valid Bet) সম্পন্ন করতে হবে এবং সেটির স্ক্রিনশট আমাদের টেলিগ্রামে প্রদান করতে হবে।"
+    "বেটিং ভেরিফিকেশন: আমাদের প্রিমিয়াম সুবিধাসমূহ উপভোগ করতে হলে কমপক্ষে ২,০০০ টাকার বৈধ বাজি (Valid Bet) সম্পন্ন করতে হবে এবং সেটির স্ক্রিনশট আমাদের টেলিগ্রামে প্রদান করতে হবে।"
   ];
 
   return (
@@ -136,7 +136,7 @@ export default function App() {
               </div>
               <div className="flex flex-wrap gap-4">
                 <a 
-                  href="http://www.kkfb.net/?r=tif8305" 
+                  href="http://www.fb77.shop/?r=zfm6751" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-blue-600 text-white rounded-2xl font-bold text-lg hover:bg-blue-700 transition-all transform hover:scale-105 btn-glow-blue flex items-center gap-2"
@@ -144,7 +144,7 @@ export default function App() {
                   একাউন্ট ১ তৈরি করুন
                 </a>
                 <a 
-                  href="http://www.kkfb.org/?r=tif8305" 
+                  href="http://www.fb77.shop/?r=zfm6751" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="px-8 py-4 bg-zinc-800 text-white rounded-2xl font-bold text-lg hover:bg-zinc-900 transition-all transform hover:scale-105 flex items-center gap-2"
@@ -195,6 +195,36 @@ export default function App() {
           </div>
         </section>
 
+        {/* Video Section */}
+        <section className="py-20 bg-white">
+          <div className="max-w-5xl mx-auto px-4">
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="text-center mb-12"
+            >
+              <h2 className="text-3xl md:text-5xl font-black mb-6">লস রিকভারি গাইড ভিডিও 📺</h2>
+              <p className="text-lg text-zinc-600">আমাদের সিগন্যাল ব্যবহার করে কীভাবে প্রফিট করবেন তা বিস্তারিত দেখুন এই ভিডিওতে।</p>
+            </motion.div>
+            
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true }}
+              className="relative pb-[56.25%] h-0 overflow-hidden max-w-full bg-black rounded-[2.5rem] shadow-2xl border-8 border-white"
+            >
+              <iframe 
+                className="absolute top-0 left-0 w-full h-full border-none"
+                src="https://www.youtube-nocookie.com/embed/Ia7TWcWSug8" 
+                title="Aviator Loss Recovery" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowFullScreen
+              ></iframe>
+            </motion.div>
+          </div>
+        </section>
+
         {/* New CTA Section: Create Account & Send Screenshot */}
         <section className="py-20 bg-white">
           <div className="max-w-5xl mx-auto px-4">
@@ -216,7 +246,7 @@ export default function App() {
                 </p>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                   <a 
-                    href="http://www.kkfb.net/?r=tif8305" 
+                    href="http://www.fb77.shop/?r=zfm6751" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-blue-600 text-white rounded-2xl font-black text-xl hover:bg-blue-700 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
@@ -224,7 +254,7 @@ export default function App() {
                     একাউন্ট ১
                   </a>
                   <a 
-                    href="http://www.kkfb.org/?r=tif8305" 
+                    href="http://www.fb77.shop/?r=zfm6751" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-10 py-5 bg-zinc-800 text-white rounded-2xl font-black text-xl hover:bg-zinc-900 transition-all transform hover:scale-105 shadow-xl flex items-center justify-center gap-2"
